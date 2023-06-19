@@ -6,7 +6,6 @@ winner_name = ""
 
 if 0 <= n <= 10000:
     for i in range(n):
-
         name = input()
         value = int(input())
 
